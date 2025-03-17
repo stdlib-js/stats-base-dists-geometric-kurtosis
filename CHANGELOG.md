@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-05)
+## Unreleased (2025-03-17)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#3632](https://github.com/stdlib-js/stdlib/issues/3632)
+[#3632](https://github.com/stdlib-js/stdlib/issues/3632), [#5858](https://github.com/stdlib-js/stdlib/issues/5858)
 
 </section>
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`6174608`](https://github.com/stdlib-js/stdlib/commit/617460893a55638df0a7ebbca569c8c07ce9a85b) - **docs:** fix example return value [(#5874)](https://github.com/stdlib-js/stdlib/pull/5874) _(by Anshu Kumar)_
 -   [`befc79b`](https://github.com/stdlib-js/stdlib/commit/befc79b8a2b00c3f9b91d0b21bee3ef5006bc91e) - **feat:** add C implementation for `stats/base/dists/geometric/kurtosis` [(#4092)](https://github.com/stdlib-js/stdlib/pull/4092) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
 -   [`bce4dac`](https://github.com/stdlib-js/stdlib/commit/bce4dac63618cd50985d7875d89933c116cd185d) - **bench:** refactor random number generation in `stats/base/dists/geometric` [(#4931)](https://github.com/stdlib-js/stdlib/pull/4931) _(by Karan Anand, stdlib-bot)_
 -   [`f75a0ce`](https://github.com/stdlib-js/stdlib/commit/f75a0cef6a3112b166dba04c13bada9763cec350) - **chore:** use excess kurtosis consistently _(by Philipp Burckhardt)_
@@ -48,8 +49,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Anshu Kumar
 -   Karan Anand
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
